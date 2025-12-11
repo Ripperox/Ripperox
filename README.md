@@ -1,11 +1,5 @@
-# Hi 👋, I'm Rishit Dhote
-<div align="center">
+# Rishit Dhote
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ripperox&show_icons=true&theme=dark&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ripperox&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
 ### Web3 Developer
 
 - 🌱 Software Engineer specializing in Web3. Building scalable apps with Rust and React.
