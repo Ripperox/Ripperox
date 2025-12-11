@@ -1,7 +1,10 @@
 # Hi 👋, I'm Rishit Dhote
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ripperox&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ripperox&layout=compact&theme=dark&hide_border=true" height="150" alt="languages graph" />
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ripperox&show_icons=true&theme=dark&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ripperox&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 ### Web3 Developer
 
