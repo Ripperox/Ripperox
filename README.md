@@ -2,8 +2,6 @@
 
 ### Web3 Developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ripperox&label=Profile views&color=0e75b6&style=flat" alt="Ripperox" /> </p>
-
 - 🌱 I'm currently learning **Rust and React**
 
 - 👯 I'm looking to collaborate on **open source projects**
