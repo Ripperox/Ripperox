@@ -2,11 +2,9 @@
 
 ### Web3 Developer
 
-- 🌱 I'm currently learning **Rust and React**
+- 🌱 Software Engineer specializing in Web3. Building scalable apps with Rust and React.
 
-- 👯 I'm looking to collaborate on **open source projects**
-
-- 📫 How to reach me **rishitrdhote@gmail.com**
+- 📫  **rishitrdhote@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
