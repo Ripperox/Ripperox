@@ -1,5 +1,8 @@
 # Hi 👋, I'm Rishit Dhote
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ripperox&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ripperox&layout=compact&theme=dark&hide_border=true" height="150" alt="languages graph" />
+</div>
 ### Web3 Developer
 
 - 🌱 Software Engineer specializing in Web3. Building scalable apps with Rust and React.
