@@ -1,8 +1,10 @@
-# Rishit Dhote
+<a href="https://rishitdhote.vercel.app"><img src="./banner.svg" alt="Rishit Dhote — backend & distributed systems engineer" width="100%"/></a>
 
-**Backend & Distributed Systems Engineer** — currently shipping realtime trading infrastructure at **Apeing Labs**.
+I build high-concurrency backends and realtime systems that stay fast under load — **Rust** (Tokio · Axum · SQLx) services, WebSocket fanout, and the **React/TypeScript** interfaces on top.
 
-I build high-concurrency backends and realtime systems that stay fast under load — Rust (Tokio · Axum · SQLx) services, WebSocket fanout, and the React/TypeScript interfaces on top.
+<p>
+  <img src="https://skillicons.dev/icons?i=rust,ts,react,nextjs,python,postgres,redis,aws,docker&theme=dark" alt="Rust · TypeScript · React · Next.js · Python · Postgres · Redis · AWS · Docker" height="36"/>
+</p>
 
 ### Recent results
 
