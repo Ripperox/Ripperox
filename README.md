@@ -1,43 +1,28 @@
 # Rishit Dhote
 
-### Web3 Developer
+**Backend & Distributed Systems Engineer** — currently shipping realtime trading infrastructure at **Apeing Labs**.
 
-- 🌱 Software Engineer specializing in Web3. Building scalable apps with Rust and React.
+I build high-concurrency backends and realtime systems that stay fast under load — Rust (Tokio · Axum · SQLx) services, WebSocket fanout, and the React/TypeScript interfaces on top.
 
-- 📫  **rishitrdhote@gmail.com**
+### Recent results
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/Ripperox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Ripperox" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rishit-dhote" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishit-dhote" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/Ripperox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Ripperox" height="30" width="40" /></a>
-<a href="https://leetcode.com/rishit_d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rishit_d" height="30" width="40" /></a>
-</p>
+- Raised init-payload delivery **89% → 99% at 1,000 concurrent users/replica** — K6 load tests surfaced the bottleneck, refactor fixed it
+- **Sub-second price fanout** across replicas via shared Redis pub/sub — 30+ event types multiplexed over one socket
+- Ran EDA over **billions of order records** at the **National Stock Exchange**
+- Built custom consensus mechanisms in **Rust/Substrate** for composable chain infrastructure
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=rust" alt="rust" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/>
-  </a>
-  
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/>
-  </a>
+### Selected work
 
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/>
-  </a>
-</p>
+| Project | What it is |
+|---|---|
+| [cc-meter](https://github.com/Ripperox/cc-meter) | Cross-session usage observability for Claude Code — live status line + trends report |
+| [llm-gateway](https://github.com/Ripperox/llm-gateway) | Transparent streaming proxy — relays SSE byte-for-byte while instrumenting TTFT/latency/throughput live |
+| [flavourscout](https://github.com/Ripperox/flavourscout) | Provably-optimal cart & coupon optimizer — multiple-choice knapsack DP, 500-test suite |
+| [blockchain_simulation](https://github.com/Ripperox/blockchain_simulation) | Realtime blockchain simulator — live PoW mining, mempool, 3-node P2P network |
+| [rishit-portfolio](https://github.com/Ripperox/rishit-portfolio) | Interactive tech-noir portfolio with live demos — [rishitdhote.vercel.app](https://rishitdhote.vercel.app) |
 
+### Elsewhere
+
+**[Portfolio](https://rishitdhote.vercel.app)** · **[LinkedIn](https://www.linkedin.com/in/rishit-dhote)** · **rishitrdhote@gmail.com**
+
+> Public repos are side work — production commits live in private org repos.
